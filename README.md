@@ -1,12 +1,13 @@
 # iOS Color picker
 
 <b>Preview: </b>
-<img src="https://media.discordapp.net/attachments/685901946582073456/1111649380928323594/ezgif.com-gif-maker.gif" alt="this slowpoke moves"  width="250" />
+<img src="https://media.discordapp.net/attachments/685901946582073456/1111649380928323594/ezgif.com-gif-maker.gif">
 
 ### Example:
 
 <b> Setup: </b>
 ```
+UIWindow *window = [UIApplication sharedApplication].keyWindow;
 ColorPicker *picker = [[ColorPicker alloc]initWithFrame:CGRectMake(0, 0, 300, 220)];
 picker.center = window.center;
 picker.backgroundColor = [UIColor colorWithRed:0.09f green:0.1f blue:0.11f alpha:0.9f];

@@ -1,7 +1,7 @@
 # iOS Color picker
 
 <b>Preview: </b>
-<img src="https://ezgif.com/save/ezgif-4-3a11be3cdc.gif" alt="this slowpoke moves"  width="250" />
+<img src="https://media.discordapp.net/attachments/685901946582073456/1111649380928323594/ezgif.com-gif-maker.gif" alt="this slowpoke moves"  width="250" />
 
 ### Example:
 

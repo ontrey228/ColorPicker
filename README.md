@@ -1,9 +1,9 @@
 # iOS Color picker
 
 <b>Preview: </b>
-<img src="https://ezgif.com/save/ezgif-4-3a11be3cdc.gif">
+<img src="https://ezgif.com/save/ezgif-4-3a11be3cdc.gif" alt="this slowpoke moves"  width="250" />
 
-### Using the menu:
+### Example:
 
 <b> Setup: </b>
 ```

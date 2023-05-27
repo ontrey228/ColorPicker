@@ -31,7 +31,7 @@ UILabel *label = ...
 
 <b> Addinhg to the project: </b>
 ```
-$(TWEAK_NAME)_LDFLAGS += ColorPicker.a
+$(TWEAK_NAME)_LDFLAGS += ColorPicker.o
 ```
 
 ### Credits:

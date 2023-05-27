@@ -25,7 +25,7 @@ UILabel *label = ...
 
 [picker colorWasUpdate: ^(void) {
     view.backgroundColor = [picker getSelectedColor];
-	label.textColor = [picker getSelectedColor];
+    label.textColor = [picker getSelectedColor];
 }];
 ```
 
